@@ -174,8 +174,8 @@
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-broker</artifactId>
             <version>5.15.4</version>
-        </dependency>
-    </dependencies>-->
+        </dependency>-->
+    </dependencies>
 
 	<repositories>
           <repository>
